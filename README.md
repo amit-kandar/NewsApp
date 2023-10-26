@@ -25,33 +25,37 @@ NewsApp is a web application that allows users to explore the latest news articl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/NewsApp.git
+   git clone https://github.com/amit-kandar/NewsApp.git
+   ```
+
 2. Navigate to the project directory:
-    ```bash
-    cd NewsApp
+   ```bash
+   cd NewsApp
+   ```
 3. Install dependencies:
-    ```bash
-    npm install
-Or if you prefer Yarn:
+   ```bash
+   npm install
+   Or if you prefer Yarn:
    ```bash
    npm install
    ```
 4. Get your NewsAPI API key:
 
-    - Visit [NewsAPI](https://newsapi.org/) and sign up for an API key.
+   - Visit [NewsAPI](https://newsapi.org/) and sign up for an API key.
 
-    - Add your API key in the ```.env.local``` file.
+   - Add your API key in the `.env.local` file.
 
 5. Start the development server:
-    ```bash
-    npm start
-Or with Yarn:
+   ```bash
+   npm start
+   Or with Yarn:
    ```bash
    yarn start
    ```
 6. Open your web browser and visit http://localhost:3000.
 
 ## Configuration
+
 You can customize the categories and the number of articles to fetch by modifying the relevant variables in your code.
 
 ## Contributing
@@ -70,6 +74,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-If you have any questions or need assistance, please feel free to contact us at your@email.com.
+If you have any questions or need assistance, please feel free to contact us at kandaramit2001@gmail.com.
 
 ##### Happy coding!
