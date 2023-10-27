@@ -36,7 +36,7 @@ NewsApp is a web application that allows users to explore the latest news articl
 3. Install dependencies:
    ```bash
    npm install
-   Or if you prefer Yarn:
+Or if you prefer Yarn:
    ```bash
    npm install
    ```
