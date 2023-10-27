@@ -2,8 +2,12 @@
 
 NewsApp is a web application that allows users to explore the latest news articles from various sources and categories. It provides a user-friendly interface to discover, read, and stay informed about current events.
 
-![NewsApp Screenshot]
+Desktop View
 ![Screenshot (87)](https://github.com/amit-kandar/NewsApp/assets/109284949/28fcb86d-d593-4235-809a-27e2a56dbb31)
+
+Tab View
+![Screenshot (89)](https://github.com/amit-kandar/NewsApp/assets/109284949/ccc9008a-0c8f-45ea-9f4d-d6af58092860)
+
 
 ## Features
 
