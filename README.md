@@ -50,6 +50,7 @@ NewsApp is a web application that allows users to explore the latest news articl
 5. Start the development server:
    ```bash
    npm start
+   ```
    Or with Yarn:
    ```bash
    yarn start
