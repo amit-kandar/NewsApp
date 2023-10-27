@@ -12,7 +12,6 @@ const SearchNews = lazy(() => import('./components/SearchNews'));
 
 function App() {
   const apiKey = process.env.REACT_APP_NEWS_API_KEY;
-  console.log(apiKey);
   const pageSize = 10;
 
   const [progress, setProgress] = useState(0);
