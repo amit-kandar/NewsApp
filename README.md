@@ -39,7 +39,7 @@ NewsApp is a web application that allows users to explore the latest news articl
    ```
    Or if you prefer Yarn:
    ```bash
-   npm install
+   yarn add
    ```
 4. Get your NewsAPI API key:
 
